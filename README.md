@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="banner" width="100%" />
+  <img src="https://github.com/Fiza-Shahzadi/Fiza-Shahzadi/blob/main/Fiza%20Shahzadi%20AWS%20cloud%20engineer%20banner.png?raw=true" alt="banner" width="100%" />
 </p>
 
 ---
@@ -51,12 +51,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 💼 Featured Projects 🚀
+## 💼 Projects 🚀
 
 🔹 [Terraform AWS 3-Tier Architecture](https://github.com/Fiza-Shahzadi/terraform-aws-3tier-architecture)  
-🔹 AWS EC2 Setup with Nginx  
-🔹 S3 Static Website Hosting  
-🔹 IAM User & Role Management  
 
 ---
 
