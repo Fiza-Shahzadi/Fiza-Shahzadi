@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
+##  About Me
  Passionate **Cloud Engineer** with strong interest in **DevOps & Automation**  
  Hands-on experience with AWS services  
  Love building real-world cloud projects  
@@ -74,5 +74,4 @@ Here are some ideas to get you started:
 ✔ Master CI/CD Pipelines  
 
 ---
-- ⚡ Fun fact: ...
--->
+
